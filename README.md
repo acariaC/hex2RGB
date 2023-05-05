@@ -23,9 +23,6 @@ Enter hex colors: #C0FFEE #ABCDEF
 ## Requirements
 
 Python 3.5 or higher
-Contributions
-
-Contributions are always welcome! If you find a bug or have a feature request, please open an issue.
 
 ## License
 
