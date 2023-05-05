@@ -5,20 +5,13 @@ This is a simple Python program that converts hexadecimal color codes to RGB col
 ## Usage
 
 Clone the repository:
+```bash
 git clone https://github.com/acariaC/hex2RGB.git
-
-Run the program with Python:
+cd hex2RGB
 python3 hex2RGB.py
-
-Enter the hexadecimal color code when prompted:
-
 Enter hex colors: #C0FFEE #ABCDEF
-
-
-The program will output the corresponding RGB color code:
-
-RGB color code: [[192, 255, 238], [171, 205, 239]]
-
+[[192, 255, 238], [171, 205, 239]]
+```
 
 ## Features
 
