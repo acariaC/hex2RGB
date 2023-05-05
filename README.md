@@ -29,4 +29,4 @@ Contributions are always welcome! If you find a bug or have a feature request, p
 
 ## License
 
-This program is licensed under the MIT License. Feel free to use and modify it for your own purposes.
+This program is licensed under the [MIT License](LICENSE.txt).. Feel free to use and modify it for your own purposes.
