@@ -9,15 +9,16 @@ Clone the repository:
 git clone https://github.com/acariaC/hex2RGB.git
 cd hex2RGB
 python3 hex2RGB.py
+
 Enter hex colors: #C0FFEE #ABCDEF
 [[192, 255, 238], [171, 205, 239]]
 ```
 
 ## Features
 
-Converts any valid hexadecimal color code to RGB color format
-Handles 6-digit hexadecimal color codes
-Outputs the RGB color code as a tuple of integers
+- Converts any valid hexadecimal color code to RGB color format
+- Handles 6-digit hexadecimal color codes
+- Outputs the RGB color code as a tuple of integers
 
 ## Requirements
 
