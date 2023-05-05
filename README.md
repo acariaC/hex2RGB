@@ -1,6 +1,6 @@
 # hex2RGB
 
-This is a simple Python program that converts hexadecimal color codes to RGB color format. I personally use it to use 'Adobe Color' to extract colors and convert them into RGB format.
+'hex2RGB' is a simple Python program that converts hexadecimal color codes to RGB color format. I personally use it to use 'Adobe Color' to extract colors and convert them into RGB format.
 
 ## Usage
 
@@ -29,4 +29,4 @@ Contributions are always welcome! If you find a bug or have a feature request, p
 
 ## License
 
-This program is licensed under the [MIT License](LICENSE.txt).. Feel free to use and modify it for your own purposes.
+This program is licensed under the [MIT License](LICENSE.txt). Feel free to use and modify it for your own purposes.
