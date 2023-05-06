@@ -4,7 +4,6 @@
 
 ## Usage
 
-Clone the repository:
 ```bash
 git clone https://github.com/acariaC/hex2RGB.git
 cd hex2RGB
